@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="shit_obfuscator.vcxproj" Id="46cb0a24-60af-4c03-81b9-cd2c0e0847f0" />
+</Solution>
